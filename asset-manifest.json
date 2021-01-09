@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c63d5eb.chunk.css",
+    "main.css": "/static/css/main.e8c47fda.chunk.css",
     "main.js": "/static/js/main.f3888fbe.chunk.js",
     "main.js.map": "/static/js/main.f3888fbe.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5bcc4936.js",
@@ -9,15 +9,15 @@
     "static/js/2.8c8e0bfb.chunk.js": "/static/js/2.8c8e0bfb.chunk.js",
     "static/js/2.8c8e0bfb.chunk.js.map": "/static/js/2.8c8e0bfb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.debc202582fcead92a6252907424c443.js": "/precache-manifest.debc202582fcead92a6252907424c443.js",
+    "precache-manifest.4f4c15ac52ecca4f47f488f6afc4e84d.js": "/precache-manifest.4f4c15ac52ecca4f47f488f6afc4e84d.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.bf0413c3.chunk.css.map": "/static/css/2.bf0413c3.chunk.css.map",
-    "static/css/main.6c63d5eb.chunk.css.map": "/static/css/main.6c63d5eb.chunk.css.map",
+    "static/css/main.e8c47fda.chunk.css.map": "/static/css/main.e8c47fda.chunk.css.map",
     "static/js/2.8c8e0bfb.chunk.js.LICENSE.txt": "/static/js/2.8c8e0bfb.chunk.js.LICENSE.txt",
     "static/media/armory_item_image.css": "/static/media/filler_slot_img.b02a7597.png",
     "static/media/style.css": "/static/media/fa-solid-900.bea989e8.woff",
     "static/media/covenant_tab.css": "/static/media/swords.b512a8e5.png",
-    "static/media/login.css": "/static/media/login-preview.4d8847ac.jpg",
+    "static/media/login.css": "/static/media/login-preview.ba1e5c07.jpg",
     "static/media/myphic_plus_progress.css": "/static/media/myphic_number_overlay.7c5e3480.png",
     "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
   },
@@ -25,7 +25,7 @@
     "static/js/runtime-main.5bcc4936.js",
     "static/css/2.bf0413c3.chunk.css",
     "static/js/2.8c8e0bfb.chunk.js",
-    "static/css/main.6c63d5eb.chunk.css",
+    "static/css/main.e8c47fda.chunk.css",
     "static/js/main.f3888fbe.chunk.js"
   ]
 }
