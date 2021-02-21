@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d0ab9a06e66dbe614ffea3008280db80",
+    "revision": "c28a15f7f65575cedda21cb36daf7726",
     "url": "/index.html"
   },
   {
-    "revision": "b6aa0220d72581f27a56",
+    "revision": "55de2598b8af04f4e8a6",
     "url": "/static/css/2.bf0413c3.chunk.css"
   },
   {
-    "revision": "e1bb5303088b0e6cd392",
-    "url": "/static/css/main.685f312d.chunk.css"
+    "revision": "87d9d4ff0cd49ae58711",
+    "url": "/static/css/main.92672b8f.chunk.css"
   },
   {
-    "revision": "b6aa0220d72581f27a56",
-    "url": "/static/js/2.5b5fa48f.chunk.js"
+    "revision": "55de2598b8af04f4e8a6",
+    "url": "/static/js/2.afd90847.chunk.js"
   },
   {
     "revision": "561a76b248e11569eb03b975ca39b479",
-    "url": "/static/js/2.5b5fa48f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.afd90847.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1bb5303088b0e6cd392",
-    "url": "/static/js/main.22c245cb.chunk.js"
+    "revision": "87d9d4ff0cd49ae58711",
+    "url": "/static/js/main.db1d947b.chunk.js"
   },
   {
     "revision": "9031b1faaca7a051e0c9",
@@ -100,12 +100,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/flash.c2cdaff7.png"
   },
   {
-    "revision": "4d8847acfdbc37d94e3147c56ceaae84",
-    "url": "/static/media/login-preview.4d8847ac.jpg"
+    "revision": "ba1e5c071c72906f132bce619febe3e5",
+    "url": "/static/media/login-preview.ba1e5c07.jpg"
   },
   {
     "revision": "7c5e34806b33f50a6c992a3818de5753",
     "url": "/static/media/myphic_number_overlay.7c5e3480.png"
+  },
+  {
+    "revision": "ff8cc249b8b3a6213cfe56696af74270",
+    "url": "/static/media/rio_logo.ff8cc249.png"
   },
   {
     "revision": "2ae64d2c2a2b4e9fe3e409aaf0a124bb",
