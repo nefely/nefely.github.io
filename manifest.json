@@ -1,25 +1,22 @@
 {
-  "short_name": "WoW Armory",
-  "name": "WoW Armory",
+  "lang": "en",
+  "short_name": "nefely",
+  "name": "nefely",
+  "start_url": "https://nefely.github.io/",
+  "background_color": "#3b3b3b",
+  "theme_color": "#3b3b3b",
+  "display": "fullscreen",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "icon_192.png",
+      "src": "img/logo_192_192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "icon_512.png",
+      "src": "img/logo_512_512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": "https://nefely.github.io/wow-armory.html",
-  "display": "fullscreen",
-  "theme_color": "rgb(15, 9, 24)",
-  "background_color": "rgb(15, 9, 24)"
+  ]
 }
