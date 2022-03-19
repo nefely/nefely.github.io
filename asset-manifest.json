@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.5fbfacff.chunk.css",
+    "main.css": "/static/css/main.fb958ef5.chunk.css",
     "main.js": "/static/js/main.eb8a2bdc.chunk.js",
     "main.js.map": "/static/js/main.eb8a2bdc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5bcc4936.js",
@@ -9,10 +9,10 @@
     "static/js/2.fbfe130c.chunk.js": "/static/js/2.fbfe130c.chunk.js",
     "static/js/2.fbfe130c.chunk.js.map": "/static/js/2.fbfe130c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5668f17a1fd4f3fd0a21945431adcc64.js": "/precache-manifest.5668f17a1fd4f3fd0a21945431adcc64.js",
+    "precache-manifest.0ca17816ac45f20525b080289b3774c3.js": "/precache-manifest.0ca17816ac45f20525b080289b3774c3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.8e72b816.chunk.css.map": "/static/css/2.8e72b816.chunk.css.map",
-    "static/css/main.5fbfacff.chunk.css.map": "/static/css/main.5fbfacff.chunk.css.map",
+    "static/css/main.fb958ef5.chunk.css.map": "/static/css/main.fb958ef5.chunk.css.map",
     "static/js/2.fbfe130c.chunk.js.LICENSE.txt": "/static/js/2.fbfe130c.chunk.js.LICENSE.txt",
     "static/media/armory_item_image.css": "/static/media/filler_slot_img.b02a7597.png",
     "static/media/style.css": "/static/media/fa-solid-900.bea989e8.woff",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.5bcc4936.js",
     "static/css/2.8e72b816.chunk.css",
     "static/js/2.fbfe130c.chunk.js",
-    "static/css/main.5fbfacff.chunk.css",
+    "static/css/main.fb958ef5.chunk.css",
     "static/js/main.eb8a2bdc.chunk.js"
   ]
 }
